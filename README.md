@@ -2,7 +2,7 @@
 
 **Author: Yuyang Tang (yytang@gmail.com), Xutong Jiang, Chenghao Gong**
 
-**Our project poster is available here.**
+**Our project poster is available [here](Instruct-Object2Object.pdf).**
 
 ## Installation
 
