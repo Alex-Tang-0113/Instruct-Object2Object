@@ -1,6 +1,6 @@
 # Instruct-Object2Object [Course Project of Computational Imaging @ UofT]
 
-**Author: Yuyang Tang (yytang@gmail.com), Xutong Jiang, Chenghao Gong**
+**Author: Yuyang Tang (yytang@gmail.com), Xutong Jiang (xjiang@cs.toronto.edu), Chenghao Gong**
 
 **Our project poster is available [here](Instruct-Object2Object.pdf).**
 
