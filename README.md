@@ -1,6 +1,6 @@
 # Instruct-Object2Object [Course Project of Computational Imaging @ UofT]
 
-**Author: Yuyang Tang (yytang@gmail.com), Xutong Jiang (xjiang@cs.toronto.edu), Chenghao Gong**
+**Author: Yuyang Tang (yytang@gmail.com), Xutong Jiang (xjiang@cs.toronto.edu), Chenghao Gong (gongch21@gmail.com)**
 
 **Our project poster is available [here](Instruct-Object2Object.pdf).**
 
@@ -8,7 +8,7 @@
 
 ### 1. Install Nerfstudio dependencies
 
-Instruct-Object2Object is based on Instruct-Nerf2Nerf, which is built on Nerfstudio and therefore has the same dependency reqirements. Specfically [PyTorch](https://pytorch.org/) and [tinycudann](https://github.com/NVlabs/tiny-cuda-nn) are required.
+Instruct-Object2Object is based on Instruct-Nerf2Nerf, built on Nerfstudio, and therefore has the same dependency requirements. Specfically [PyTorch](https://pytorch.org/) and [tinycudann](https://github.com/NVlabs/tiny-cuda-nn) are required.
 
 Follow the instructions [at this link](https://docs.nerf.studio/quickstart/installation.html) to create the environment and install dependencies. Only follow the commands up to tinycudann. After the dependencies have been installed, return here.
 
