@@ -3,6 +3,7 @@
 **Author: Yuyang Tang (yytang@gmail.com), Xutong Jiang (xjiang@cs.toronto.edu), Chenghao Gong (gongch21@gmail.com)**
 
 **Our project poster is available [here](Instruct-Object2Object.pdf).**
+**Our final paper report is available [here](CSC2529_Report.pdf)!**
 
 ## Installation
 
